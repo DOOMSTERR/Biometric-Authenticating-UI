@@ -19,4 +19,3 @@ class MyApp extends StatelessWidget {
 }
 
 
-// wait yes we are in that folder ypueshs nasshi ho raha hai na code??haaa let me do
